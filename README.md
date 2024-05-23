@@ -1,7 +1,7 @@
 ## Olá! Eu sou Francisco👋
 
 - 🔭 Futuramente trabalharei com Front-End
-- ⚡ Estou estudando JavaScript
+- ⚡ No momento estou estudando JavaScript
 - 😄 Pronome: ele/dele
 
 <div>
