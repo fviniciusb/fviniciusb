@@ -2,7 +2,6 @@
 
 - 🔭 Futuramente trabalharei com Front-End
 - ⚡ No momento estou estudando JavaScript
-- 😄 Pronome: ele/dele
 
 <div>
   <a href="https://github.com/fviniciusb">
