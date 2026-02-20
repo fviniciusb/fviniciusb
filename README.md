@@ -1,7 +1,6 @@
 ## Olá! Eu sou Francisco👋
 
-- 🔭 Futuramente trabalharei com Front-End
-- ⚡ No momento estou estudando JavaScript
+- 🔭 Atualmente trabalho com Front-end e back-end 
 
 <div>
   <a href="https://github.com/fviniciusb">
